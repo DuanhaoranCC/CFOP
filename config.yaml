@@ -1,0 +1,96 @@
+CiteSeer:
+  dim: 256
+  epochs: 3000
+  lr: 8e-5
+  p1: 0.7
+  rate: 0.4
+  warmup: 100
+  w: 1e-4
+  label: 0
+  acc: 73.6
+  layer: 2
+  hidden: 512
+Cora:
+  dim: 128
+  epochs: 17000
+  lr: 5e-5
+  p1: 0.5
+  rate: 0.7
+  warmup: 100
+  w: 1e-4
+  label: 0
+  acc: 84.2
+  hidden: 256
+  layer: 2
+Com:
+  dim: 256
+  epochs: 10000
+  lr: 8e-5
+  p1: 0.0
+  rate: 0.4
+  warmup: 100
+  w: 5e-4
+  acc: 0.90166+-0.18
+  label: 1
+  hidden: 512
+  layer: 2
+Photo:
+  dim: 256
+  epochs: 7000
+  lr: 1e-4
+  p1: 0.0
+  rate: 0.2
+  warmup: 100
+  w: 1e-5
+  acc: 0.9303+-0.3
+  hidden: 512
+  label: 1
+  layer: 2
+Phy:
+  dim: 256
+  epochs: 5000
+  lr: 5e-5
+  p1: 0.2
+  rate: 0.2
+  warmup: 100
+  w: 1e-5
+  acc: 95.56+-0.1
+  label: 1
+  hidden: 512
+  layer: 2
+PubMed:
+  dim: 128
+  epochs: 2500
+  lr: 1e-4
+  p1: 0.6
+  rate: 0.5
+  warmup: 100
+  w: 3e-5
+  acc: 80.6
+  label: 0
+  hidden: 256
+  layer: 2
+CS:
+  dim: 256
+  epochs: 10000
+  lr: 8e-5
+  p1: 0.1
+  rate: 0.1
+  warmup: 100
+  w: 1e-5
+  acc: 93.2
+  label: 1
+  layer: 1
+  hidden: 0
+WikiCS:
+  dim: 512
+  epochs: 3000
+  lr: 5e-4
+  p1: 0.0
+  rate: 0.8
+  warmup: 100
+  w: 1e-4
+  acc: 79.8
+  label: 0
+  hidden: 256
+  layer: 2
