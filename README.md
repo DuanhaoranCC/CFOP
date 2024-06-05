@@ -1,6 +1,7 @@
-# Contextual features online prediction for self-supervised graph representation
+# CFOP
 
-This paper is accepted by journal Expert Systems With Applications.
+This repository is for the source code of the journal Expert Systems With Applications paper "Contextual Features Online Prediction for Self-Supervised Graph Representation."
+
 ## Dependencies
 
 ```python
