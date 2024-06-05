@@ -1,6 +1,6 @@
 # Contextual features online prediction for self-supervised graph representation
 
-This repository is journal Expert Systems With Applications accepted.
+This paper is accepted by journal Expert Systems With Applications.
 ## Dependencies
 
 ```python
@@ -19,7 +19,7 @@ python main.py --dataset Cora
 The `--dataset` argument should be one of [Cora, CiteSeer, PubMed, Com, Photo, Phy, CS, WikiCS].
 
 ## Cite
-'''
+```
 @article{duan2024contextual,
   title={Contextual features online prediction for self-supervised graph representation},
   author={Duan, Haoran and Xie, Cheng and Tang, Peng and Yu, Beibei},
@@ -29,4 +29,4 @@ The `--dataset` argument should be one of [Cora, CiteSeer, PubMed, Com, Photo, P
   year={2024},
   publisher={Elsevier}
 }
-'''
+```
