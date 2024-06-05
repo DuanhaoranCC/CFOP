@@ -1,6 +1,6 @@
-# A Simple Self-Supervised Graph Representation via Online Predict
+# Contextual features online prediction for self-supervised graph representation
 
-Self-supervised graph representation learning is a key technique for graph structured data processing, especially for Web-generated graph that do not have qualified labelling information.
+This repository is journal Expert Systems With Applications accepted.
 ## Dependencies
 
 ```python
@@ -17,3 +17,16 @@ python main.py --dataset Cora
 ```
 
 The `--dataset` argument should be one of [Cora, CiteSeer, PubMed, Com, Photo, Phy, CS, WikiCS].
+
+## Cite
+'''
+@article{duan2024contextual,
+  title={Contextual features online prediction for self-supervised graph representation},
+  author={Duan, Haoran and Xie, Cheng and Tang, Peng and Yu, Beibei},
+  journal={Expert Systems with Applications},
+  volume={238},
+  pages={122075},
+  year={2024},
+  publisher={Elsevier}
+}
+'''
