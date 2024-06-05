@@ -1,5 +1,7 @@
 # CFOP
 
+This repository is called SimGOP in the previous version, I renamed the model name in the camera-ready version.
+
 This repository is for the source code of the journal Expert Systems With Applications paper "Contextual Features Online Prediction for Self-Supervised Graph Representation."
 
 ## Dependencies
