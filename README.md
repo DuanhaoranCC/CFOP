@@ -23,13 +23,16 @@ The `--dataset` argument should be one of [Cora, CiteSeer, PubMed, Com, Photo, P
 
 ## Cite
 ```
-@article{duan2024contextual,
-  title={Contextual features online prediction for self-supervised graph representation},
-  author={Duan, Haoran and Xie, Cheng and Tang, Peng and Yu, Beibei},
-  journal={Expert Systems with Applications},
-  volume={238},
-  pages={122075},
-  year={2024},
-  publisher={Elsevier}
+@article{DBLP:journals/eswa/DuanXTY24,
+  author       = {Haoran Duan and
+                  Cheng Xie and
+                  Peng Tang and
+                  Beibei Yu},
+  title        = {Contextual features online prediction for self-supervised graph representation},
+  journal      = {Expert Syst. Appl.},
+  volume       = {238},
+  number       = {Part {C}},
+  pages        = {122075},
+  year         = {2024},
 }
 ```
