@@ -30,7 +30,7 @@ def load_best_configs(args, path):
 
 
 seed_everything(35536)
-parser = argparse.ArgumentParser(description="SimGOP")
+parser = argparse.ArgumentParser(description="CFOP")
 parser.add_argument("--dataname", type=str, default="Cora")
 parser.add_argument("--cuda", type=int, default=0)
 args = parser.parse_args()
